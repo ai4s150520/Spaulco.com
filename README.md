@@ -124,8 +124,8 @@ Optimized build configuration in `vite.config.ts`
 - 033 3550 5917
 
 **Email:**
-- subpaul5@gmail.com
-- surajitdutta@hotmail.com
+- s.paul@spaulco.com
+- s.dutta@spaulco.com
 
 **LinkedIn:**
 - [Subrata Paul](https://www.linkedin.com/in/subrata-paul-87a011210/)
@@ -183,5 +183,5 @@ Proprietary - © 2024 Subrata Paul & Co. All rights reserved.
 ## 📞 Support
 
 For technical support or inquiries:
-- Email: subpaul5@gmail.com
+- Email: info@spaulco.com
 - Phone: +91 94330 25054
